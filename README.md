@@ -22,7 +22,9 @@ El objetivo principal es construir una API **segura, escalable y mantenible**, a
   ✏️ Actualizar un tópico: Actualiza la información de un tópico existente.
 
   ❌ Eliminar un tópico: Realiza una eliminación lógica del tópico.
+  
 ---
+
 ## 🛠 **Tecnologías utilizadas**  
 - **Lenguaje:** Java 17 ☕  
 - **Framework:** Spring Boot 3.x  
@@ -55,19 +57,21 @@ El objetivo principal es construir una API **segura, escalable y mantenible**, a
 - Maven 3.x  
 - MySQL 8  
 
-### **⚙️ Base De Datos **
+### **2️⃣ Base De Datos**
 
 - Crea una base de datos en MySQL llamada alura_foro_api.
 - Configura las siguientes variables de entorno:
+```
   ${DB_NAME_FORO}: alura_foro_api
   ${DB_USER-MYSQL}: Usuario de MySQL
   ${DB_PASSWORD-MYSQL}: Contraseña de MySQL
+```
 
-
-### **2️⃣ Clonar el repositorio**  
+### **3️⃣ Clonar el repositorio**  
 ```bash
-git clone https://github.com/TU-USUARIO/foro-hub-challenge-backend.git
-cd foro-hub-challenge-backend
+https://github.com/FernandoRC789/Foro-Hub-Challenge---Back-End-.git
 ```
 ---
 ## **Author**
+Nick Fernando Rodriguez Contreras estudiante y autodidacta de la carrera de Computación e Informatica.
+🧑🏽‍💻😎✌️
